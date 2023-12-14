@@ -34,7 +34,7 @@ def draw_graph(x1, y1, x2, y2, x3, y3, x4, y4, x5, y5, x6, y6, project):
     ax.indicate_inset_zoom(axins)
 
     plt.subplots_adjust(left=0.08, right=0.98, bottom=0.08, top=0.95)
-    plt.savefig("{output_path}/{project}.pdf".format(output_path=output_path, project=project), bbox_inches='tight')
+    plt.savefig("{output_path}/graphs/{project}.pdf".format(output_path=output_path, project=project), bbox_inches='tight')
 
 def get_filename(option, project):
     target_path = pathlib.Path(target_path_template.format(option=option, project=project))
