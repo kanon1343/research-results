@@ -1,0 +1,61 @@
+Generation,Time,All,Acceptable,Unacceptable
+1st, 3 seconds,0,0,0
+2nd, 6 seconds,2,0,2
+3rd, 6 minutes 12 seconds,2,0,2
+4th, 36 minutes 18 seconds,2,0,2
+5th, 45 minutes 22 seconds,0,0,0
+6th, 51 minutes 27 seconds,1,0,1
+7th, 51 minutes 32 seconds,2,0,2
+8th, 54 minutes 38 seconds,0,0,0
+9th, 54 minutes 45 seconds,3,0,3
+10th, 1 hours 9 minutes 52 seconds,4,0,4
+11th, 1 hours 12 minutes 59 seconds,2,0,2
+12th, 1 hours 13 minutes 7 seconds,2,0,2
+13th, 1 hours 16 minutes 13 seconds,0,0,0
+14th, 1 hours 19 minutes 21 seconds,1,0,1
+15th, 1 hours 25 minutes 28 seconds,3,0,3
+16th, 1 hours 25 minutes 35 seconds,1,0,1
+17th, 1 hours 34 minutes 44 seconds,2,0,2
+18th, 1 hours 34 minutes 52 seconds,3,0,3
+19th, 1 hours 44 minutes 1 seconds,2,0,2
+20th, 1 hours 44 minutes 10 seconds,3,0,3
+21st, 1 hours 47 minutes 18 seconds,2,0,2
+22nd, 1 hours 50 minutes 27 seconds,0,0,0
+23rd, 1 hours 50 minutes 36 seconds,4,0,4
+24th, 1 hours 50 minutes 45 seconds,5,0,5
+25th, 1 hours 53 minutes 54 seconds,0,0,0
+26th, 2 hours 4 seconds,2,0,2
+27th, 2 hours 1 minutes 33 seconds,1,0,1
+28th, 2 hours 4 minutes 43 seconds,1,0,1
+29th, 2 hours 10 minutes 53 seconds,3,0,3
+30th, 2 hours 14 minutes 2 seconds,3,0,3
+31st, 2 hours 17 minutes 10 seconds,2,0,2
+32nd, 2 hours 17 minutes 20 seconds,4,0,4
+33rd, 2 hours 38 minutes 31 seconds,1,0,1
+34th, 2 hours 46 minutes 12 seconds,1,0,1
+35th, 2 hours 58 minutes 23 seconds,3,0,3
+36th, 3 hours 4 minutes 34 seconds,1,0,1
+37th, 3 hours 4 minutes 45 seconds,1,0,1
+38th, 3 hours 4 minutes 56 seconds,1,0,1
+39th, 3 hours 5 minutes 7 seconds,2,0,2
+40th, 3 hours 5 minutes 19 seconds,1,0,1
+41st, 3 hours 32 minutes 29 seconds,0,0,0
+42nd, 3 hours 35 minutes 39 seconds,1,0,1
+43rd, 3 hours 44 minutes 49 seconds,0,0,0
+44th, 3 hours 50 minutes 59 seconds,2,0,2
+45th, 3 hours 51 minutes 9 seconds,3,0,3
+46th, 3 hours 57 minutes 18 seconds,0,0,0
+47th, 4 hours 29 seconds,3,0,3
+48th, 4 hours 3 minutes 39 seconds,3,0,3
+49th, 4 hours 15 minutes 48 seconds,1,0,1
+50th, 4 hours 18 minutes 58 seconds,0,0,0
+51st, 4 hours 25 minutes 9 seconds,1,0,1
+52nd, 4 hours 25 minutes 19 seconds,3,0,3
+53rd, 4 hours 40 minutes 26 seconds,1,0,1
+54th, 4 hours 52 minutes 37 seconds,0,0,0
+55th, 4 hours 52 minutes 48 seconds,0,0,0
+56th, 5 hours 1 minutes 59 seconds,3,0,3
+57th, 5 hours 5 minutes 10 seconds,1,0,1
+58th, 5 hours 17 minutes 21 seconds,0,0,0
+59th, 5 hours 17 minutes 32 seconds,0,0,0
+60th, 5 hours 17 minutes 35 seconds,5,0,5

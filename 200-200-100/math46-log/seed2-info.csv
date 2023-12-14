@@ -1,0 +1,25 @@
+Generation,Time,All,Acceptable,Unacceptable
+1st, 26 seconds,0,0,0
+2nd, 59 seconds,1,1,0
+3rd, 2 minutes 30 seconds,5,1,4
+4th, 4 minutes 1 seconds,4,0,4
+5th, 5 minutes 32 seconds,8,2,6
+6th, 7 minutes 0 seconds,2,1,1
+7th, 8 minutes 34 seconds,2,0,2
+8th, 10 minutes 6 seconds,7,0,7
+9th, 11 minutes 41 seconds,4,0,4
+10th, 13 minutes 32 seconds,9,3,6
+11th, 15 minutes 34 seconds,3,0,3
+12th, 17 minutes 14 seconds,3,0,3
+13th, 19 minutes 5 seconds,6,0,6
+14th, 21 minutes 51 seconds,6,0,6
+15th, 23 minutes 52 seconds,6,0,6
+16th, 25 minutes 46 seconds,3,0,3
+17th, 28 minutes 8 seconds,3,0,3
+18th, 30 minutes 5 seconds,4,0,4
+19th, 31 minutes 55 seconds,0,0,0
+20th, 34 minutes 13 seconds,2,1,1
+21st, 36 minutes 22 seconds,10,0,10
+22nd, 38 minutes 22 seconds,4,1,3
+23rd, 41 minutes 0 seconds,7,0,7
+24th, 41 minutes 6 seconds,1,0,1

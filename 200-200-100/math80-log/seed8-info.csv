@@ -1,0 +1,51 @@
+Generation,Time,All,Acceptable,Unacceptable
+1st, 27 seconds,1,1,0
+2nd, 6 minutes 57 seconds,1,1,0
+3rd, 50 minutes 5 seconds,2,1,1
+4th, 51 minutes 16 seconds,3,1,2
+5th, 55 minutes 25 seconds,0,0,0
+6th, 1 hours 5 minutes 52 seconds,1,0,1
+7th, 1 hours 16 minutes 13 seconds,2,2,0
+8th, 1 hours 29 minutes 40 seconds,2,1,1
+9th, 1 hours 40 minutes 6 seconds,0,0,0
+10th, 1 hours 47 minutes 37 seconds,1,1,0
+11th, 2 hours 4 minutes 4 seconds,2,1,1
+12th, 2 hours 23 minutes 35 seconds,2,1,1
+13th, 2 hours 31 minutes 17 seconds,2,2,0
+14th, 2 hours 35 minutes 50 seconds,3,1,2
+15th, 2 hours 58 minutes 25 seconds,1,0,1
+16th, 3 hours 17 minutes 59 seconds,0,0,0
+17th, 3 hours 34 minutes 26 seconds,2,1,1
+18th, 3 hours 45 minutes 11 seconds,0,0,0
+19th, 3 hours 49 minutes 48 seconds,2,0,2
+20th, 4 hours 25 seconds,2,1,1
+21st, 4 hours 11 minutes 8 seconds,1,1,0
+22nd, 4 hours 30 minutes 45 seconds,3,1,2
+23rd, 5 hours 17 minutes 32 seconds,1,1,0
+24th, 5 hours 49 minutes 12 seconds,1,1,0
+25th, 6 hours 14 minutes 47 seconds,2,2,0
+26th, 6 hours 52 minutes 32 seconds,5,5,0
+27th, 7 hours 45 minutes 23 seconds,2,1,1
+28th, 8 hours 29 minutes 12 seconds,1,1,0
+29th, 9 hours 39 minutes 49 seconds,2,2,0
+30th, 10 hours 32 minutes 28 seconds,2,0,2
+31st, 10 hours 55 minutes 13 seconds,2,1,1
+32nd, 11 hours 29 minutes 51 seconds,2,0,2
+33rd, 12 hours 19 minutes 36 seconds,4,3,1
+34th, 13 hours 45 minutes 25 seconds,1,0,1
+35th, 14 hours 44 minutes 6 seconds,2,1,1
+36th, 15 hours 57 minutes 47 seconds,1,0,1
+37th, 16 hours 23 minutes 32 seconds,1,1,0
+38th, 17 hours 7 minutes 25 seconds,1,0,1
+39th, 17 hours 51 minutes 16 seconds,1,1,0
+40th, 18 hours 20 minutes 13 seconds,3,2,1
+41st, 18 hours 52 minutes 13 seconds,2,1,1
+42nd, 19 hours 27 minutes 6 seconds,1,1,0
+43rd, 20 hours 22 minutes 51 seconds,1,0,1
+44th, 20 hours 54 minutes 35 seconds,1,0,1
+45th, 21 hours 20 minutes 19 seconds,0,0,0
+46th, 21 hours 55 minutes 2 seconds,3,1,2
+47th, 22 hours 17 minutes 51 seconds,2,0,2
+48th, 22 hours 52 minutes 41 seconds,1,0,1
+49th, 23 hours 45 minutes 29 seconds,3,0,3
+50th, 24 hours 23 minutes 26 seconds,6,0,6

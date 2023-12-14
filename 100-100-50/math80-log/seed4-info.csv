@@ -1,0 +1,85 @@
+Generation,Time,All,Acceptable,Unacceptable
+1st, 20 seconds,0,0,0
+2nd, 37 seconds,1,1,0
+3rd, 31 minutes 15 seconds,1,1,0
+4th, 31 minutes 49 seconds,4,2,2
+5th, 38 minutes 25 seconds,0,0,0
+6th, 1 hours 8 seconds,1,0,1
+7th, 1 hours 3 minutes 49 seconds,0,0,0
+8th, 1 hours 25 minutes 28 seconds,1,1,0
+9th, 1 hours 35 minutes 10 seconds,2,0,2
+10th, 2 hours 17 minutes 56 seconds,3,1,2
+11th, 2 hours 30 minutes 46 seconds,5,2,3
+12th, 2 hours 34 minutes 30 seconds,1,1,0
+13th, 2 hours 44 minutes 15 seconds,1,0,1
+14th, 2 hours 50 minutes 59 seconds,2,0,2
+15th, 3 hours 24 minutes 41 seconds,0,0,0
+16th, 3 hours 25 minutes 25 seconds,0,0,0
+17th, 3 hours 29 minutes 10 seconds,1,0,1
+18th, 3 hours 30 minutes 1 seconds,0,0,0
+19th, 3 hours 36 minutes 50 seconds,5,2,3
+20th, 3 hours 46 minutes 39 seconds,0,0,0
+21st, 4 hours 11 minutes 32 seconds,1,0,1
+22nd, 4 hours 12 minutes 24 seconds,1,1,0
+23rd, 4 hours 28 minutes 17 seconds,0,0,0
+24th, 4 hours 29 minutes 11 seconds,3,1,2
+25th, 4 hours 39 minutes 4 seconds,1,1,0
+26th, 5 hours 18 minutes 59 seconds,1,0,1
+27th, 5 hours 23 minutes 4 seconds,1,0,1
+28th, 5 hours 33 minutes 10 seconds,2,0,2
+29th, 5 hours 52 minutes 7 seconds,1,1,0
+30th, 5 hours 56 minutes 1 seconds,1,1,0
+31st, 6 hours 20 minutes 53 seconds,1,0,1
+32nd, 6 hours 24 minutes 48 seconds,3,1,2
+33rd, 6 hours 34 minutes 44 seconds,3,0,3
+34th, 6 hours 59 minutes 40 seconds,0,0,0
+35th, 7 hours 30 minutes 36 seconds,0,0,0
+36th, 7 hours 31 minutes 34 seconds,0,0,0
+37th, 7 hours 44 minutes 46 seconds,1,0,1
+38th, 7 hours 49 minutes 19 seconds,0,0,0
+39th, 7 hours 59 minutes 16 seconds,0,0,0
+40th, 8 hours 15 seconds,2,1,1
+41st, 8 hours 1 minutes 16 seconds,0,0,0
+42nd, 8 hours 2 minutes 24 seconds,0,0,0
+43rd, 8 hours 6 minutes 42 seconds,0,0,0
+44th, 8 hours 13 minutes 39 seconds,1,0,1
+45th, 8 hours 32 minutes 38 seconds,1,0,1
+46th, 8 hours 42 minutes 37 seconds,1,0,1
+47th, 9 hours 1 minutes 53 seconds,1,0,1
+48th, 9 hours 21 minutes 3 seconds,0,0,0
+49th, 9 hours 37 minutes 8 seconds,0,0,0
+50th, 9 hours 53 minutes 9 seconds,1,0,1
+51st, 10 hours 16 seconds,1,1,0
+52nd, 10 hours 13 minutes 20 seconds,0,0,0
+53rd, 10 hours 14 minutes 29 seconds,1,0,1
+54th, 10 hours 21 minutes 43 seconds,1,0,1
+55th, 10 hours 28 minutes 46 seconds,2,0,2
+56th, 10 hours 44 minutes 45 seconds,0,0,0
+57th, 10 hours 57 minutes 37 seconds,1,0,1
+58th, 11 hours 13 minutes 39 seconds,3,0,3
+59th, 11 hours 29 minutes 29 seconds,1,0,1
+60th, 11 hours 42 minutes 23 seconds,2,0,2
+61st, 11 hours 49 minutes 16 seconds,0,0,0
+62nd, 11 hours 56 minutes 12 seconds,0,0,0
+63rd, 12 hours 13 seconds,1,0,1
+64th, 12 hours 1 minutes 27 seconds,0,0,0
+65th, 12 hours 11 minutes 19 seconds,0,0,0
+66th, 12 hours 27 minutes 12 seconds,0,0,0
+67th, 12 hours 31 minutes 3 seconds,1,0,1
+68th, 12 hours 40 minutes 59 seconds,1,0,1
+69th, 12 hours 50 minutes 54 seconds,1,0,1
+70th, 13 hours 6 minutes 49 seconds,1,0,1
+71st, 13 hours 19 minutes 48 seconds,2,0,2
+72nd, 13 hours 27 minutes 8 seconds,1,0,1
+73rd, 13 hours 31 minutes 21 seconds,1,0,1
+74th, 13 hours 35 minutes 17 seconds,2,0,2
+75th, 13 hours 48 minutes 18 seconds,3,0,3
+76th, 13 hours 58 minutes 17 seconds,3,0,3
+77th, 14 hours 11 minutes 9 seconds,1,0,1
+78th, 14 hours 18 minutes 8 seconds,2,0,2
+79th, 14 hours 28 minutes 9 seconds,3,0,3
+80th, 14 hours 41 minutes 11 seconds,1,0,1
+81st, 14 hours 57 minutes 3 seconds,2,0,2
+82nd, 15 hours 13 minutes 2 seconds,3,0,3
+83rd, 15 hours 40 minutes 57 seconds,2,0,2
+84th, 15 hours 56 minutes 48 seconds,2,0,2
