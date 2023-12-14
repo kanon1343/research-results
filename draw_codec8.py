@@ -28,8 +28,8 @@ def draw_graph(x1, y1, x2, y2, x3, y3, x4, y4, x5, y5, x6, y6, project):
     axins.plot(x1, y1, label="A50")
     axins.plot(x2, y2, label="A100")
     axins.plot(x3, y3, label="A200")
-    axins.set_xlim(0, 6000)
-    axins.set_ylim(0, 120)
+    axins.set_xlim(0, 10000)
+    axins.set_ylim(0, 80)
     axins.set_yticks([0, 50, 100])
     ax.indicate_inset_zoom(axins)
 
