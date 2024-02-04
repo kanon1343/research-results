@@ -23,5 +23,11 @@
 
 ```
 
+# 分類に使用したもの
+
 - pmd で使用するルール：rule.xml
 - 繰り返し行検出：duplicate_search.py
+
+# 修正パッチは量が多いため別リポジトリにあります
+
+(https://github.com/kanon1343/research)
